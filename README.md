@@ -1,4 +1,4 @@
-## Hi there 👋
+## Das ist ein Beispiel als Start 👋
 
 <!--
 **jnshdm/jnshdm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
